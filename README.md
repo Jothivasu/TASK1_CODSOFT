@@ -12,11 +12,17 @@ Libraries Used:
 The following important libraries were used for this project:
    
    1.numpy
+   
    2.pandas
+   
    3.matplotlib.pyplot
+   
    4.seaborn
+   
    5.sklearn.preprocessing.LabelEncoder
+   
    6.sklearn.model_selection.train_test_split
+   
    7.sklearn.linear_model.LogisticRegression
 
   #Data Exploration and Preprocessing:
