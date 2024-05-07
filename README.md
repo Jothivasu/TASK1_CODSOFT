@@ -1,1 +1,3 @@
-# TASK1_CODSOFT
+# README: Titanic Survival Prediction
+Aim:
+   
